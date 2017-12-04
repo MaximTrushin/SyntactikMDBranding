@@ -4,11 +4,11 @@
 	<SuiteName>Syntactik Editor</SuiteName>
 	<ApplicationIcon>icon.icns</ApplicationIcon>
 	<ApplicationIcons>
-		<Icon>XamarinStudio16.png</Icon>
-		<Icon>XamarinStudio32.png</Icon>
-		<Icon>XamarinStudio48.png</Icon>
-		<Icon>XamarinStudio128.png</Icon>
-		<Icon>XamarinStudio256.png</Icon>
+		<Icon>SyntactikEditor16.png</Icon>
+		<Icon>SyntactikEditor32.png</Icon>
+		<Icon>SyntactikEditor48.png</Icon>
+		<Icon>SyntactikEditor128.png</Icon>
+		<Icon>SyntactikEditor256.png</Icon>
 	</ApplicationIcons>
 	<ProfileDirectoryName>SyntactikEditor</ProfileDirectoryName>
 
