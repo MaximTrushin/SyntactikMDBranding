@@ -10,6 +10,6 @@
 		<Icon>SyntactikEditor128.png</Icon>
 		<Icon>SyntactikEditor256.png</Icon>
 	</ApplicationIcons>
-	<ProfileDirectoryName>SyntactikEditor</ProfileDirectoryName>
+	<ProfileDirectoryName>Monodevelop</ProfileDirectoryName>
 
 </Branding>
